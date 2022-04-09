@@ -6,3 +6,5 @@ git add text.txt
 git commit -m  "提交信息"
 看仓库提交日志
 git log
+将本地仓库修改（或者添加）的内容提交到远程仓库
+git push origin main
