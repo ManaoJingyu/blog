@@ -1,0 +1,8 @@
+查看仓库状态
+git status
+提交文件到缓冲区
+git add text.txt
+提交到仓库
+git commit -m  "提交信息"
+看仓库提交日志
+git log
